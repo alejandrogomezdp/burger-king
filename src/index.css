@@ -1,4 +1,4 @@
-css :root {
+:root {
   box-sizing: border-box;
   font-size: 0.785rem;
   --blue: #0d6efd;
@@ -13,6 +13,7 @@ css :root {
   --cyan: #0dcaf0;
   --white: #fff;
   --gray: #adb5bd;
+  --dark: #282828;
 }
 
 *,

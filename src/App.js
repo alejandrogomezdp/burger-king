@@ -1,10 +1,16 @@
+import "./App.css";
+import Title from "./components/HeaderTitle";
+import Paragraph from "./components/FillerParagraph";
+
 const App = () => {
   return (
-    <div>
-    <h1>Hello World</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, enim!</p>
+    <div className="main">
+      <Title />
+      <Paragraph />
+      <Paragraph />
+      <Paragraph />
     </div>
   );
-}
+};
 
 export default App;
