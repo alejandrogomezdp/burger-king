@@ -50,6 +50,6 @@ line-height: 2em;
   border: .2em solid white;
 }
 
-.fa-solid fa-star{
-  color: --var(black)
+.fa-star{
+  color: rgb(217, 217, 0);
 }
