@@ -1,4 +1,5 @@
 import './CardsContainer.css';
+import React from 'react';
 
 function CardsContainer(props) {
   return (
